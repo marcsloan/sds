@@ -11,7 +11,7 @@ import { TreeState, useTreeState } from "@react-stately/tree";
 import clsx from "clsx";
 import { IconChevronDown, IconChevronUp } from "icons";
 import { ComponentPropsWithoutRef, useRef, useState } from "react";
-import "./accordion.css";
+import "./accordionNew.css";
 
 // TODO: This file is WIP. There is no direct support for Accordion in react-aria-components,
 // so we are making our own here using react-aria
